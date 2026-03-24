@@ -1,0 +1,22 @@
+# Market Pulse — Python Dependencies
+# Day 1: Data fetching
+yfinance>=0.2.36
+pandas>=2.0.0
+
+# Day 2-3: India data + macro (will use these later)
+# beautifulsoup4>=4.12.0
+# requests>=2.31.0
+# fredapi>=0.5.1
+
+# Day 4: Technical analysis
+# pandas-ta>=0.3.14b
+
+# Day 5: AI commentary
+# anthropic>=0.39.0
+
+# Day 6-7: PDF generation
+# reportlab>=4.1
+# matplotlib>=3.8.0
+
+# Day 8: Delivery
+# (smtplib + telegram use stdlib or requests)
